@@ -1,0 +1,157 @@
+body {
+  font-family: "Montserrat";
+}
+
+.heading {
+  text-align: center;
+}
+
+hr {
+  border-top: 10px solid;
+  color: blue;
+}
+
+h1 {
+  font-size: 3.5rem;
+  font-family: "Montserrat-Black";
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-family: "Montserrat-bold"
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/* navigation bar */
+/* Heading Secction */
+.heading {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.logo {
+  width: 230px;
+  height: 230px;
+  border-radius: 100%;
+}
+
+span {
+  color: #0779e4;
+}
+
+.name {
+  font-size: 2.2rem;
+  font-family: cursive;
+}
+
+.proverb {
+  color: red;
+  font-size: 2.2rem;
+}
+
+.heading-btn {
+  padding-right: 10%;
+  margin-bottom: 50px;
+}
+
+/* Project Section */
+.service {
+  margin: 8px 0;
+  border: 0;
+}
+
+.projects {
+  background-color: #bedbbb;
+}
+
+.dropdown-header {
+  background-color: #dcedc1;
+}
+
+.dropdown-item:hover {
+  background-color: #c6fce5;
+}
+
+/* Testimonials section*/
+.testimonials {
+  background-color: #8f8f8f;
+  text-align: center;
+  color: black;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.testimonial-image {
+  width: 90%;
+  border-radius:10%;
+  margin: 0;
+}
+
+/* press section */
+.press {
+  text-align: center;
+  padding-bottom: 3%;
+  margin-top: 10%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 15px;
+}
+
+/* Footer Section */
+.footer {
+  text-align: center;
+  padding-top: 10PX;
+  line-height: 0.5;
+}
+
+.footer-icon {
+  margin: 10px 10px;
+}
+
+.footer-icon:hover {
+  color: grey;
+}
+
+.fa-instagram {
+  color: #fb3958;
+}
+
+.fa-envelope {
+  color: #3e65cf;
+}
+
+.design {
+  font-size: 0.6rem;
+}
+
+/* Well page */
+.pictures{
+  padding: 10px 10px;
+
+}
+.well-text {
+  text-align: center;
+
+}
+
+.wellpics {
+  width: 100%;
+  height: 300px;
+  border-radius: 15px 50px;
+  background: #73AD21;
+  margin-top:  10px;
+}
